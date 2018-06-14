@@ -4,8 +4,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("这是LeeCode的HelloWorld");
-		System.out.println("这是LeeCode的HelloWorld");
+		System.out.println("杩欐槸LeeCode鐨凥elloWorld");
+		System.out.println("杩欐槸LeeCode鐨凥elloWorld");
 	}
 
 }
